@@ -1,0 +1,33 @@
+.light-mode {
+  color: black;
+  background-color: white;
+}
+
+.dark-mode {
+  color: white;
+  background-color: black;
+}
+
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  padding: 12px;
+}
+
+.mode-button {
+  color: black;
+  background-color: whitesmoke;
+  border: none;
+  font-size: 15px;
+  padding: 12px;
+  border-radius: 5px;
+}
+
+.card {
+  padding: 12px;
+  border-radius: 12px;
+}
